@@ -355,5 +355,5 @@ finally{
 });
 
 app.listen(port,()=>{
-        console.log(`Exapmle app listening at http://134.209.64.79:3000:${port}`)
+        console.log(`Exapmle app listening at http://134.209.64.79:${port}`)
 })
